@@ -8,5 +8,5 @@ This project predicts whether a text is Positive, Negative, or Neutral using Mac
 - Logistic Regression
 
 ## Files
-- sentiment.py
+- Sentiment.py
 - sentiment.csv
